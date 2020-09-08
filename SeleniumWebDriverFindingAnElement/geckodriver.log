@@ -23,3 +23,72 @@ JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-0529ca755
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1599582959632	geckodriver	INFO	Listening on 127.0.0.1:57206
+1599582962684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofile1MtiRJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599582965189	Marionette	INFO	Listening on port 57227
+1599582965312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-0529ca7557cb54c80194.js, line 233: TypeError: document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+1599589367596	Marionette	INFO	Stopped listening on port 57227
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+an't find profile directory.
+1599587383660	Marionette	INFO	Listening on port 52448
+1599587385311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-0529ca7557cb54c80194.js, line 233: TypeError: document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1599589367576	Marionette	INFO	Stopped listening on port 52448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ocal\\Temp\\rust_mozprofile0CvQiL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599588863188	Marionette	INFO	Listening on port 56428
+1599588864863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599589139402	geckodriver	INFO	Listening on 127.0.0.1:57166
+1599589142461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofilekZVoFn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599589144816	Marionette	INFO	Listening on port 57186
+1599589145852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599589367359	Marionette	INFO	Stopped listening on port 57186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ocal\\Temp\\rust_mozprofileL0QU1t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599589189739	Marionette	INFO	Listening on port 57446
+1599589190859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599589196201	Marionette	INFO	Stopped listening on port 57446
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599589350138	geckodriver	INFO	Listening on 127.0.0.1:57952
+1599589353171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofile75Jp1B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599589355436	Marionette	INFO	Listening on port 57973
+1599589355843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599589361398	Marionette	INFO	Stopped listening on port 57973
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
