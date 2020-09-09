@@ -4,3 +4,43 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1599666675428	Marionette	INFO	Listening on port 62928
 1599666676467	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-d7eb74fe0d5971711979.js, line 233: TypeError: document.querySelector(...) is null
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1599668316788	Marionette	INFO	Stopped listening on port 62928
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599668770729	geckodriver	INFO	Listening on 127.0.0.1:51891
+1599668773734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileSjjnvo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599668775924	Marionette	INFO	Listening on port 51899
+1599668777456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-d7eb74fe0d5971711979.js, line 233: TypeError: document.querySelector(...) is null
+1599668791811	Marionette	INFO	Stopped listening on port 51899
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599668844028	geckodriver	INFO	Listening on 127.0.0.1:52133
+1599668847038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofile4oinIm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599668849804	Marionette	INFO	Listening on port 52151
+1599668850161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+1599668982862	geckodriver	INFO	Listening on 127.0.0.1:52643
+1599668985900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofilefkZCQF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599668988396	Marionette	INFO	Listening on port 52651
+1599668989964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-d7eb74fe0d5971711979.js, line 233: TypeError: document.querySelector(...) is null
+1599669004425	Marionette	INFO	Stopped listening on port 52651
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -10,7 +10,12 @@ class FindingAnElementUsingIdWithCSSSelectors():
         elementByIdUsingCssSelector = driver.find_element_by_css_selector("#displayed-text")
         if elementByIdUsingCssSelector is not None:
             print("Found an element using Id with CSS Selector")
+
+        elementByIdWithTagName = driver.find_element_by_css_selector("input#name")
+        if elementByIdWithTagName is not None:
+            print("Found an element with CSS Selector using Id and TagName")
         driver.quit()
+
 
 findingAnElementUsingIdWithCSSSelectors = FindingAnElementUsingIdWithCSSSelectors()
 findingAnElementUsingIdWithCSSSelectors.test()
