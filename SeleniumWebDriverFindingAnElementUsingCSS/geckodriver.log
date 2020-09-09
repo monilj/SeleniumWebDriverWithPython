@@ -1,0 +1,6 @@
+1599666669998	geckodriver	INFO	Listening on 127.0.0.1:62909
+1599666673043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileRShMWF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599666675428	Marionette	INFO	Listening on port 62928
+1599666676467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-d7eb74fe0d5971711979.js, line 233: TypeError: document.querySelector(...) is null
