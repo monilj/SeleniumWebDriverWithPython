@@ -1,7 +1,10 @@
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 
+'''
+'.'->Class
 
+'''
 class FindingAnElementUsingClassWithCSSSelectors():
     def test(self):
         baseUrl = "https://letskodeit.teachable.com/pages/practice"
