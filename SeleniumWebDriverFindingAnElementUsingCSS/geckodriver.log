@@ -87,3 +87,16 @@ JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-88e394899
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1599749691815	geckodriver	INFO	Listening on 127.0.0.1:58887
+1599749694868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileBPjfL2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599749697797	Marionette	INFO	Listening on port 58908
+1599749698906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-88e39489920d82b0108c.js, line 233: TypeError: document.querySelector(...) is null
+1599749718752	Marionette	INFO	Stopped listening on port 58908
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
