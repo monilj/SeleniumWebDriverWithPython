@@ -130,3 +130,13 @@ console.error: "Store does not have a valid reducer. Make sure the argument pass
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1599940374015	geckodriver	INFO	Listening on 127.0.0.1:52448
+1599940377066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileSBYRsP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599940380342	Marionette	INFO	Listening on port 52456
+1599940382128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599940415327	geckodriver	INFO	Listening on 127.0.0.1:52504
+1599940418378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileugO9rb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599940421323	Marionette	INFO	Listening on port 52512
+1599940422945	Marionette	WARN	TLS certificate errors will be ignored for this session
