@@ -13,3 +13,21 @@ JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-3d4416664
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1599933719772	geckodriver	INFO	Listening on 127.0.0.1:51270
+1599933722799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileyBVdMJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599933728436	Marionette	INFO	Listening on port 51278
+1599933728602	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sso.teachable.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1599934119969	Marionette	INFO	Stopped listening on port 51278
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ocal\\Temp\\rust_mozprofile0fXd5U"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599934123450	Marionette	INFO	Listening on port 51426
+1599934123627	Marionette	WARN	TLS certificate errors will be ignored for this session
