@@ -177,3 +177,17 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1599941743257	geckodriver	INFO	Listening on 127.0.0.1:52995
+1599941746318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileDqQ4dv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599941749679	Marionette	INFO	Listening on port 53003
+1599941750680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599941825698	geckodriver	INFO	Listening on 127.0.0.1:53095
+1599941828765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileB0vGsS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599941832561	Marionette	INFO	Listening on port 53103
+1599941833679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599941860240	Marionette	INFO	Stopped listening on port 53103
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
