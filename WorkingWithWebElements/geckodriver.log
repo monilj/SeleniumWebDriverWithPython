@@ -1,0 +1,15 @@
+1599932764800	geckodriver	INFO	Listening on 127.0.0.1:50986
+1599932767834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileke0OlZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599932774895	Marionette	INFO	Listening on port 50994
+1599932775208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-3d441666462dfc55b522.js, line 233: TypeError: document.querySelector(...) is null
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-3d441666462dfc55b522.js, line 233: TypeError: document.querySelector(...) is null
+JavaScript error: https://fedora.teachablecdn.com/packs/student-legacy-3d441666462dfc55b522.js, line 233: TypeError: document.querySelector(...) is null
+1599932814377	Marionette	INFO	Stopped listening on port 50994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
