@@ -182,12 +182,30 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1599941749679	Marionette	INFO	Listening on port 53003
 1599941750680	Marionette	WARN	TLS certificate errors will be ignored for this session
-1599941825698	geckodriver	INFO	Listening on 127.0.0.1:53095
-1599941828765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofileB0vGsS"
+1599941941904	Marionette	INFO	Stopped listening on port 53003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ocal\\Temp\\rust_mozprofileB0vGsS"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1599941832561	Marionette	INFO	Listening on port 53103
 1599941833679	Marionette	WARN	TLS certificate errors will be ignored for this session
 1599941860240	Marionette	INFO	Stopped listening on port 53103
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599974981447	geckodriver	INFO	Listening on 127.0.0.1:54080
+1599974984452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofiles4lU8i"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599974989751	Marionette	INFO	Listening on port 54088
+1599974990400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599975012482	Marionette	INFO	Stopped listening on port 54088
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
