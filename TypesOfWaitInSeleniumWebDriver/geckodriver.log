@@ -22,3 +22,41 @@ JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILUR
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1600261942313	geckodriver	INFO	Listening on 127.0.0.1:63481
+1600261945351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofilegdDbLZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600261947998	Marionette	INFO	Listening on port 63498
+1600261949783	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js, line 2: Script terminated by timeout at:
+dt@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:17446
+z@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:114608
+U@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:2244
+Jt@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:23781
+Xt@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:22999
+WifJ/t.unstable_runWithPriority@https://c.travel-assets.com/blossom-flex-ui/vendor.6663230756a4223ffb62.js:2:89183
+Wo@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:45113
+M@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:114385
+Qt@https://c.travel-assets.com/blossom-flex-ui/core.8b8e84cec7e1dc76ac86.js:2:22814
+
+1600269241509	Marionette	INFO	Stopped listening on port 63498
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONIL~1.JOS\\AppData\\Local\\Temp\\rust_mozprofilefbDUYY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600265191723	Marionette	INFO	Listening on port 51068
+1600265193083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.expedia.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+[Child 26544, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1600269240901	Marionette	INFO	Stopped listening on port 51068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
