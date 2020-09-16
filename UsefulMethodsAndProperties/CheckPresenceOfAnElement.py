@@ -1,8 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
 from webdriver_manager.firefox import GeckoDriverManager
-
 from UsefulMethodsAndProperties.HandyWrappers import HandyWrappers
 
 
