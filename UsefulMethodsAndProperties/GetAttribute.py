@@ -15,7 +15,6 @@ class GetAttribute():
 
         element = driver.find_element_by_id("name")
         result = element.get_attribute("type")
-
         print("Value of attribute is: " + result)
         time.sleep(1)
         driver.quit()
