@@ -1,3 +1,5 @@
-WARNING:root:warning message
-INFO:root:info message
-ERROR:root:error message
+09/18/2020 07:48:18 PM - LoggerConfigurationFile - DEBUG - debug message
+09/18/2020 07:48:18 PM - LoggerConfigurationFile - INFO - info message
+09/18/2020 07:48:18 PM - LoggerConfigurationFile - WARNING - warn message
+09/18/2020 07:48:18 PM - LoggerConfigurationFile - ERROR - error message
+09/18/2020 07:48:18 PM - LoggerConfigurationFile - CRITICAL - critical message
