@@ -22,6 +22,8 @@ class WorkingWithWindowSize:
         # Get window size using direct method
 
         driver.get_window_size()
+
+        # Set window size
         driver.set_window_size(1920, 1080)
 
 
