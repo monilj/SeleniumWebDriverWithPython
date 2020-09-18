@@ -1,0 +1,5 @@
+09/18/2020 08:36:44 PM - LoggingUsingGenericMethod - DEBUG: debug message
+09/18/2020 08:36:44 PM - LoggingUsingGenericMethod - INFO: info message
+09/18/2020 08:36:44 PM - LoggingUsingGenericMethod - WARNING: warn message
+09/18/2020 08:36:44 PM - LoggingUsingGenericMethod - ERROR: error message
+09/18/2020 08:36:44 PM - LoggingUsingGenericMethod - CRITICAL: critical message
