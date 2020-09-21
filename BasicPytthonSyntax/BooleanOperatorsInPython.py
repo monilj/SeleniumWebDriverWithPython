@@ -1,4 +1,5 @@
 """
+
 Truth table for 'And'
 **************************************
 True and True   --> True
