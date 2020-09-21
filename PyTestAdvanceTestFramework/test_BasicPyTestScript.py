@@ -12,3 +12,4 @@ def test_demo1_method1(setUp):
 
 def test_demo1_method2(setUp):
     print("Running demo1 method B")
+
