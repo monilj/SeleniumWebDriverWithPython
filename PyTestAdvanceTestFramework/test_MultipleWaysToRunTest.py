@@ -10,6 +10,7 @@ py.test test_module.py::test_method  # only run test_method in test_module
 -v verbose
 """
 
+# Run using conftest
 import pytest
 
 
