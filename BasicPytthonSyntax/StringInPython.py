@@ -57,3 +57,18 @@ sub = a[1:6]
 step = a[1:6:2]
 print(sub)
 print(step)
+
+print("========== Newly Added code ==========")
+
+courseN = "RahulShetty.com"
+author = "Rahul"
+
+print(author in courseN)
+var = courseN.split(".")
+print(var)
+
+checkTrim ="   great   "
+print(checkTrim)
+print(checkTrim.strip())
+print(checkTrim.lstrip())
+print(checkTrim.rstrip())
